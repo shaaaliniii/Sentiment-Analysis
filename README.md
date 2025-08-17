@@ -11,14 +11,6 @@
 
 Sentiment Analysis is one of the most famous applications of Natural Language Processing. Wherever data is present, we can apply it. It applies to all types of data, from text to audio to video to image. Data in any form can be processed to get sentiments out of it. The objective of the project is to create a web application which will harbor all sorts of applications in the field of sentiment analysis from applying it on text to analyzing images.
 
-<br>
-
-## Live Link
-**Hosted on streamlit**
-
-### 🔗 https://share.streamlit.io/gaganpreetkaurkalsi/sentimentanalysis-streamlit/main/app.py
-<br>
-
 ## Project Specifications
 
 **Below are the libraries and frameworks used to create the project**
